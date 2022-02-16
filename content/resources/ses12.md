@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-s097-applied-category-theory-january-iap-2019/983b3b1aabec545bef7efca7f2fe66f3_ses12.jpg
+file: /media/courses/18-s097-applied-category-theory-january-iap-2019/983b3b1aabec545bef7efca7f2fe66f3_ses12.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Chapter 6: Circuits: Hypergraph Categories and Operads'
+parent_type: CourseSection
 resourcetype: Image
 title: ses12.jpg
 uid: 983b3b1a-abec-545b-ef7e-fca7f2fe66f3

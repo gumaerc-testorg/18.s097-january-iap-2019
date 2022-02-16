@@ -1,6 +1,8 @@
 ---
 content_type: page
 layout: instructor_insights
+learning_resource_types: []
+ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 62f47a60-81c1-bc70-c31f-ecedca0d734e
 ---
@@ -50,20 +52,6 @@ Unrestricted elective credits ![](/images/educator/icon-question-unrestrict.png)
 ### Offered
 
 Most years during IAP
-
-{{< anchor "classroom" >}}{{< /anchor >}}
-
-The Classroom
--------------
-
-*   ![A large classroom with tiered rows of tablet desks, and large windows along one side wall.]({{< resource_file bc1a9067-351c-79f9-4119-1fed43495157 >}})
-    
-    ![](/images/educator/classroom_prev_dim.png) Room 1 of 1 ![](/images/educator/classroom_next_dim.png)
-    
-    ### Lecture
-    
-    Classes were held in a lecture hall equipped with about 80 tablet desks, sliding blackboards, and an A/V system.
-    
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 

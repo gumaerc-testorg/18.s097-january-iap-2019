@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
+parent_type: CourseSection
 parent_uid: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
 title: 'Chapter 3: Databases: Categories, Functors, and (Co)Limits'
 uid: 1c507f98-6ad7-62ae-d8c3-737d2c80a44c

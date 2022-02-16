@@ -1,12 +1,16 @@
 ---
 content_type: resource
 description: ''
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/18-s097-applied-category-theory-january-iap-2019/76c8e2a305c959567efe35af46cb8ff5_ses5.jpg
+file: /media/courses/18-s097-applied-category-theory-january-iap-2019/76c8e2a305c959567efe35af46cb8ff5_ses5.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+learning_resource_types: []
+ocw_type: OCWImage
+parent_title: 'Chapter 3: Databases: Categories, Functors, and (Co)Limits'
+parent_type: CourseSection
 resourcetype: Image
 title: ses5.jpg
 uid: 76c8e2a3-05c9-5956-7efe-35af46cb8ff5
