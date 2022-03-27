@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages'
 parent_type: CourseSection
+parent_uid: 1c3eb217-3942-01a7-1b3e-722b1297579a
 resourcetype: Image
 title: ses13.jpg
 uid: ef509676-403e-b022-bacf-b93d6ca388d6

@@ -7,6 +7,7 @@ learning_resource_types: []
 ocw_type: OCWFile
 parent_title: Lecture Videos and Readings
 parent_type: CourseSection
+parent_uid: 304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde
 resourcetype: Document
 title: '18.S097 Applied Category Theory: Textbook'
 uid: a4175d61-479a-3534-0d63-07ae5e48ef5a

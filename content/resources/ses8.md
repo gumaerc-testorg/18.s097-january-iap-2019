@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 'Chapter 4: Co-design: Profunctors and Monoidal Categories'
 parent_type: CourseSection
+parent_uid: ffa547eb-d3d1-1471-23d0-4bdd3a2744d2
 resourcetype: Image
 title: ses8.jpg
 uid: 15c8a188-3310-9cbf-0e5d-b452f471b52c
