@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes videos, notes, and homework for sessions 13 and
+  14.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -9,7 +11,7 @@ title: 'Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages'
 uid: 1c3eb217-3942-01a7-1b3e-722b1297579a
 ---
 
-« [Previous]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-6-circuits-hypergraph-categories-and-operads) | [Next]({{< baseurl >}}/pages/assignments) » 
+« {{% resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Previous" %}} | {{% resource_link 557567ee-c6f8-f754-667c-49b74c81e23a "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -17,7 +19,7 @@ Lecture Videos
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file ef509676-403e-b022-bacf-b93d6ca388d6 >}})](https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13)
+{{< resource uuid="ef509676-403e-b022-bacf-b93d6ca388d6" href="https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,7 +39,7 @@ by Dr. David I. Spivak
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file e8bd272b-6fd6-be21-d799-6ee0ae3117ab >}})](https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14)
+{{< resource uuid="e8bd272b-6fd6-be21-d799-6ee0ae3117ab" href="https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,9 +60,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)]({{< baseurl >}}/resources/18-s097iap19textbook).
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: {{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages (PDF)]({{< baseurl >}}/resources/18-s097iap19ch7)
+{{% resource_link 03fd10e5-957c-6e5c-879b-5b46aebee333 "Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages (PDF)" %}}
 
 7.1 How can we prove our machine is safe?
 
@@ -104,4 +106,4 @@ Internal links in the chapter file below are non-functional. For working links, 
 
 7.6 Summary and further reading
 
-« [Previous]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-6-circuits-hypergraph-categories-and-operads) | [Next]({{< baseurl >}}/pages/assignments) »
+« {{% resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Previous" %}} | {{% resource_link 557567ee-c6f8-f754-667c-49b74c81e23a "Next" %}} »

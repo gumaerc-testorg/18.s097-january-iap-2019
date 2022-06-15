@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes videos, notes, and homework for sessions 9 and
+  10.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -9,7 +11,7 @@ title: 'Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs'
 uid: ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a
 ---
 
-« [Previous]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-4-co-design-profunctors-and-monoidal-categories) | [Next]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-6-circuits-hypergraph-categories-and-operads) » 
+« {{% resource_link ffa547eb-d3d1-1471-23d0-4bdd3a2744d2 "Previous" %}} | {{% resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -17,7 +19,7 @@ Lecture Videos
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file 006b8844-5480-060d-4157-099ac03bfe5a >}})](https://www.youtube.com/watch?v=33yVpzPOLjM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=9)
+{{< resource uuid="006b8844-5480-060d-4157-099ac03bfe5a" href="https://www.youtube.com/watch?v=33yVpzPOLjM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=9" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,7 +39,7 @@ by Dr. David I. Spivak
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![A men standing in front of a blackboard and facing front.]({{< resource_file 3fabd32a-56f7-5f36-f763-8fd533beaa81 >}})](https://www.youtube.com/watch?v=0tnqd29TY9w&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=10)
+{{< resource uuid="3fabd32a-56f7-5f36-f763-8fd533beaa81" href="https://www.youtube.com/watch?v=0tnqd29TY9w&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=10" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,9 +60,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)]({{< baseurl >}}/resources/18-s097iap19textbook).
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: {{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs (PDF)]({{< baseurl >}}/resources/18-s097iap19ch5)
+{{% resource_link 6f5f362d-7f21-03cc-8f9f-8145d0c7bb9d "Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs (PDF)" %}}
 
 5.1 Comparing systems as interacting signal processors
 
@@ -101,6 +103,6 @@ Internal links in the chapter file below are non-functional. For working links, 
 Assignment
 ----------
 
-[Problem set 3 (PDF)]({{< baseurl >}}/resources/18-s097iap19ps3) due at the beginning of Session 14.
+{{% resource_link 54e44891-f831-3ee9-3cee-e87944b0b677 "Problem set 3 (PDF)" %}} due at the beginning of Session 14.
 
-« [Previous]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-4-co-design-profunctors-and-monoidal-categories) | [Next]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-6-circuits-hypergraph-categories-and-operads) »
+« {{% resource_link ffa547eb-d3d1-1471-23d0-4bdd3a2744d2 "Previous" %}} | {{% resource_link f4557088-53f4-aeba-64ea-3468ad171973 "Next" %}} »

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes videos, notes, and homework for sessions 11 and
+  12.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -9,7 +11,7 @@ title: 'Chapter 6: Circuits: Hypergraph Categories and Operads'
 uid: f4557088-53f4-aeba-64ea-3468ad171973
 ---
 
-« [Previous]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-5-signal-flow-graphs-props-presentations-and-proofs) | [Next]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-7-logic-of-behavior-sheaves-toposes-languages) » 
+« {{% resource_link ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a "Previous" %}} | {{% resource_link 1c3eb217-3942-01a7-1b3e-722b1297579a "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -17,7 +19,7 @@ Lecture Videos
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![A men standing in front of a blackboard and pointing the blackboard with left hand.]({{< resource_file c399cdef-9437-4c34-e121-050d23ba037d >}})](https://www.youtube.com/watch?v=JUiHg_F_v1o&index=11&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< resource uuid="c399cdef-9437-4c34-e121-050d23ba037d" href="https://www.youtube.com/watch?v=JUiHg_F_v1o&index=11&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,7 +39,7 @@ by Dr. David I. Spivak
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![A men standing in front of a blackboard and writing on the blackboard.]({{< resource_file 983b3b1a-abec-545b-ef7e-fca7f2fe66f3 >}})](https://www.youtube.com/watch?v=4HoNfw7XCKU&index=12&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< resource uuid="983b3b1a-abec-545b-ef7e-fca7f2fe66f3" href="https://www.youtube.com/watch?v=4HoNfw7XCKU&index=12&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,9 +60,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)]({{< baseurl >}}/resources/18-s097iap19textbook).
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: {{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 6: Circuits: Hypergraph Categories and Operads (PDF)]({{< baseurl >}}/resources/18-s097iap19ch6)
+{{% resource_link 63f5a5f9-dcb8-3726-2563-88ea83f91396 "Chapter 6: Circuits: Hypergraph Categories and Operads (PDF)" %}}
 
 6.1 The ubiquity of network languages
 
@@ -102,4 +104,4 @@ Internal links in the chapter file below are non-functional. For working links, 
 
 6.6 Summary and further reading
 
-« [Previous]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-5-signal-flow-graphs-props-presentations-and-proofs) | [Next]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-7-logic-of-behavior-sheaves-toposes-languages) »
+« {{% resource_link ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a "Previous" %}} | {{% resource_link 1c3eb217-3942-01a7-1b3e-722b1297579a "Next" %}} »

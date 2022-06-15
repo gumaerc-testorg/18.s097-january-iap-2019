@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section includes videos, notes, and homework for sessions 7 and
+  8.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Lecture Videos and Readings
@@ -9,7 +11,7 @@ title: 'Chapter 4: Co-design: Profunctors and Monoidal Categories'
 uid: ffa547eb-d3d1-1471-23d0-4bdd3a2744d2
 ---
 
-« [Previous]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-3-databases-categories-functors-and-co-limits) | [Next]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-5-signal-flow-graphs-props-presentations-and-proofs) » 
+« {{% resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Previous" %}} | {{% resource_link ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a "Next" %}} » 
 
 Lecture Videos
 --------------
@@ -17,7 +19,7 @@ Lecture Videos
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![A men standing in front of a blackboard and pointing the blackboard with left hand.]({{< resource_file 2af25eae-8bc6-79d4-24dd-e81d84589a82 >}})](https://www.youtube.com/watch?v=4Uqgsy3zrjs&index=7&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{< resource uuid="2af25eae-8bc6-79d4-24dd-e81d84589a82" href="https://www.youtube.com/watch?v=4Uqgsy3zrjs&index=7&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -37,7 +39,7 @@ by Dr. David I. Spivak
 {{< tableopen >}}
 {{< tropen >}}
 {{< tdopen >}}
-[![A men standing in front of a blackboard and pointing the blackboard with right hand.]({{< resource_file 15c8a188-3310-9cbf-0e5d-b452f471b52c >}})](https://www.youtube.com/watch?v=92Xp1z9PwJM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=8)
+{{< resource uuid="15c8a188-3310-9cbf-0e5d-b452f471b52c" href="https://www.youtube.com/watch?v=92Xp1z9PwJM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=8" >}}
 {{< tdclose >}}
 {{< tdopen >}}
 
@@ -58,9 +60,9 @@ by Dr. Brendan Fong
 Readings
 --------
 
-Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: ![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)]({{< baseurl >}}/resources/18-s097iap19textbook).
+Internal links in the chapter file below are non-functional. For working links, open the file for the full textbook: {{% resource_link a4175d61-479a-3534-0d63-07ae5e48ef5a "_An Invitation to Applied Category Theory: Seven Sketches in Compositionality_ (PDF - 2.6MB)" %}}.
 
-![This resource may not render correctly in a screen reader.](/images/inacessible.gif)[Chapter 4: Co-design: Profunctors and Monoidal Categories (PDF)]({{< baseurl >}}/resources/18-s097iap19ch4)
+{{% resource_link 4452e286-ad8e-0216-60ea-2762015536af "Chapter 4: Co-design: Profunctors and Monoidal Categories (PDF)" %}}
 
 4.1 Can we build it?
 
@@ -98,4 +100,4 @@ Internal links in the chapter file below are non-functional. For working links, 
 
 4.6 Summary and further reading
 
-« [Previous]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-3-databases-categories-functors-and-co-limits) | [Next]({{< baseurl >}}/pages/lecture-videos-and-readings/chapter-5-signal-flow-graphs-props-presentations-and-proofs) »
+« {{% resource_link 1c507f98-6ad7-62ae-d8c3-737d2c80a44c "Previous" %}} | {{% resource_link ece25e43-f9ff-d4c9-08d8-f6bd47c7c80a "Next" %}} »

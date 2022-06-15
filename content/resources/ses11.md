@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /media/courses/18-s097-applied-category-theory-january-iap-2019/c399cdef94374c34e121050d23ba037d_ses11.jpg
+file: /courses/18-s097-applied-category-theory-january-iap-2019/c399cdef94374c34e121050d23ba037d_ses11.jpg
 file_type: image/jpeg
 image_metadata:
   caption: ''
