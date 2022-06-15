@@ -1,16 +1,17 @@
 ---
 content_type: page
+description: In this section, Dr. David Spivak describes various aspects of how he
+  teaches 18.S097 Applied Category Theory.
+draft: false
 layout: instructor_insights
 learning_resource_types: []
 ocw_type: ThisCourseAtMITSection
 title: Instructor Insights
 uid: 62f47a60-81c1-bc70-c31f-ecedca0d734e
 ---
-
 {{< anchor "insights" >}}{{< /anchor >}}
 
-Instructor Insights
--------------------
+## Instructor Insights
 
 Below, Dr. David Spivak describes various aspects of how he teaches _18.S097 Applied Category Theory_.
 
@@ -38,8 +39,7 @@ The third type of problem was more open-ended, asking students to tell us about 
 
 **David Spivak:** We covered the whole book in 14 hours; it would have been better with 21 or 28. Having the extra time in the same room after class was probably a big help, and it precluded the need for office hours. Of course, that was time we could have spent doing other things like research, but sometimes good students become research assistants, and it can be more than worthwhile.
 
-Curriculum Information
-----------------------
+## Curriculum Information
 
 ### Prerequisites
 
@@ -55,29 +55,20 @@ Most years during IAP
 
 {{< anchor "assessment" >}}{{< /anchor >}}
 
-Assessment
-----------
+## Assessment
 
 ### Grade Breakdown
 
 The students' grades were based on the following activities:
 
-{{< tableopen >}}
-{{< tropen >}}
-{{< tdopen >}}
 - 75% Problem sets
 - 25% Class participation
 
-{{< tdclose >}}
+## Student Information
 
-{{< trclose >}}
+### Enrollment
 
-{{< tableclose >}}
-
-Student Information
--------------------
-
-![35 students took this course when it was taught in IAP 2019.]({{< resource_file 009ade11-96c7-b1ba-af8f-60965bbcc2a5 >}})
+35 students
 
 ### Breakdown by Year
 
@@ -89,18 +80,15 @@ Approximately 50% math majors, 20% EECS majors, 30% other majors
 
 {{< anchor "studenttime" >}}{{< /anchor >}}
 
-How Student Time Was Spent
---------------------------
+## How Student Time Was Spent
 
 During an average week, students were expected to spend 17.5 hours on the course, roughly divided as follows:
 
-Lecture
--------
+### Lecture
 
-*   Met 5 times per week for 1 hour per session; 14 sessions total; mandatory attendance.
-*   Sessions included real-world applications.
+- Met 5 times per week for 1 hour per session; 14 sessions total; mandatory attendance.
+- Sessions included real-world applications.
 
-Extra Discussion
-----------------
+### Extra Discussion
 
-*   Met after lecture sessions for non-mandatory problem solving.
+- Met after lecture sessions for non-mandatory problem solving.
