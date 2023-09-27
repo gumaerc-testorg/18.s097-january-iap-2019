@@ -43,8 +43,10 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
-    "Online Textbook"
+    "Online Textbook",
+    "Instructor Insights"
   ],
-  "site_uid": "313043b4-c724-409b-b925-33c45cd7a3ef",
+  "site_uid": "3ad7a3ea-522f-4f98-8d49-a6920282b925",
+  "site_short_id": "18.s097-january-iap-2019",
   "title": "Course Metadata"
 }
