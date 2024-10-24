@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: ''
-file: /courses/18-s097-applied-category-theory-january-iap-2019/2af25eae8bc679d424dde81d84589a82_ses7.jpg
+file: /ol-ocw-studio-app/courses/18-s097-applied-category-theory-january-iap-2019/2af25eae8bc679d424dde81d84589a82_ses7.jpg
 file_size: 36757
 file_type: image/jpeg
 image_metadata:
