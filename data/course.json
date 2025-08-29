@@ -43,10 +43,11 @@
   "learning_resource_types": [
     "Lecture Videos",
     "Problem Sets",
-    "Online Textbook",
+    "Open Textbooks",
     "Instructor Insights"
   ],
   "site_uid": "3ad7a3ea-522f-4f98-8d49-a6920282b925",
   "site_short_id": "18.s097-january-iap-2019",
+  "site_url_path": "courses/18-s097-applied-category-theory-january-iap-2019",
   "title": "Course Metadata"
 }
