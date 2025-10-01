@@ -26,7 +26,7 @@ Lecture Videos
 
 Session 9
 
-[Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 1](https://www.youtube.com/watch?v=33yVpzPOLjM&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=9)
+{{% resource_link "0f9b4223-e27b-4f96-bc7f-af17e792269f" "Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 1" %}}
 
 by Dr. David I. Spivak
 
@@ -46,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 10
 
-[Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 2](https://www.youtube.com/watch?v=0tnqd29TY9w&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=10)
+{{% resource_link "972b116c-5702-4e59-afb7-9bdafb3d291c" "Chapter 5: Signal Flow Graphs: Props, Presentations, and Proofs Part 2" %}}
 
 by Dr. Brendan Fong
 

@@ -26,7 +26,7 @@ Lecture Videos
 
 Session 3
 
-[Chapter 2: Resources: Monoidal Preorders and Enrichment Part 1](https://www.youtube.com/watch?v=Cf3tsAeGhBg&index=3&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5)
+{{% resource_link "3b0de096-d1f3-4cef-b8e7-d5960b753528" "Chapter 2: Resources: Monoidal Preorders and Enrichment Part 1" %}}
 
 by Dr. David I. Spivak
 
@@ -46,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 4
 
-[Chapter 2: Resources: Monoidal Preorders and Enrichment Part 2](https://www.youtube.com/watch?v=DvI3jzFNbEU&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=4)
+{{% resource_link "01114966-b66c-470c-bdf8-3e1b5884a01a" "Chapter 2: Resources: Monoidal Preorders and Enrichment Part 2" %}}
 
 by Dr. Brendan Fong
 
