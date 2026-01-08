@@ -26,7 +26,7 @@ Lecture Videos
 
 Session 13
 
-{{% resource_link "3db77476-9fb5-43f8-8f37-fa805b477bc2" "Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 1" %}}
+[Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 1](https://www.youtube.com/watch?v=Qp6b-XbPog0&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=13)
 
 by Dr. David I. Spivak
 
@@ -46,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 14
 
-{{% resource_link "f13f3a1b-1ab8-4ad5-b916-016cc9ea8c8c" "Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 2" %}}
+[Chapter 7: Logic of Behavior: Sheaves, Toposes, Languages Part 2](https://www.youtube.com/watch?v=wF-khda2i4c&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=14)
 
 by Dr. Brendan Fong
 

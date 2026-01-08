@@ -26,7 +26,7 @@ Lecture Videos
 
 Session 5
 
-{{% resource_link "e06ee211-2b55-40b3-bc3b-e95922d14e9d" "Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 1" %}}
+[Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 1](https://www.youtube.com/watch?v=T2vge38STok&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6&t=403s)
 
 by Dr. David I. Spivak
 
@@ -46,7 +46,7 @@ by Dr. David I. Spivak
 
 Session 6
 
-{{% resource_link "bf708324-af21-4a13-999d-00d31f5b4159" "Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 2" %}}
+[Chapter 3: Databases: Categories, Functors, and (Co)Limits Part 2](https://www.youtube.com/watch?v=uqxy5MZrQtI&list=PLhgq-BqyZ7i5lOqOqqRiS0U5SwTmPpHQ5&index=6)
 
 by Dr. Brendan Fong
 
