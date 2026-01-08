@@ -32,9 +32,9 @@ This course is based on the following textbook, with two lectures on each chapte
 
 Fong, B. and D. I. Spivak. *An Invitation to Applied Category Theory: Seven Sketches in Compositionality*. Cambridge University Press, 2019. ISBN: 9781108482295.
 
-An {{% resource_link "25074cfc-371d-49c8-b032-994db8ec891a" "online version" %}} is freely available on Cornell University’s arXiv.org e-Print archive site as well as on {{% resource_link "304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde" "Lecture Videos and Readings" %}} section.
+An [online version](https://arxiv.org/abs/1803.05316) is freely available on Cornell University’s arXiv.org e-Print archive site as well as on {{% resource_link "304944d6-7ebc-5f0f-a30c-fd3fd9fb4dde" "Lecture Videos and Readings" %}} section.
 
-The instructors welcome {{% resource_link "8a12c0ab-3307-4f33-a3d0-12722abe30de" "feedback about the book" %}}. 
+The instructors welcome [feedback about the book](https://docs.google.com/document/d/160G9OFcP5DWT8Stn7TxdVx83DJnnf7d5GML0_FOD5Wg/edit). 
 
 ## Assignments and Exam
 
